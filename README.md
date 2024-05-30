@@ -22,7 +22,7 @@ then you give the website link and give it instructions BTW when your doing yout
 
 
 Installing---- eseay peasy
-pip install playwright
+"pip install playwright"
 ------------------------
 thats it ez
 
